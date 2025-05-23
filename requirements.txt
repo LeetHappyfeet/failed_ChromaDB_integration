@@ -1,0 +1,4 @@
+psycopg2-binary
+chromadb
+sentence-transformers
+python-dotenv
